@@ -1,0 +1,13 @@
+/node_modules
+/windows/MainApp/.vs
+/windows/NativeModule/windows/.vs
+/windows/MainApp/Generated Files/
+/windows/NativeModule/windows/Generated Files/
+/windows/NativeModule/windows/packages/
+/windows/NativeModule/windows/x64/
+/windows/NativeModule/windows/x86/
+/windows/NativeModule/windows/ARM/
+/build
+/msbuild*
+/windows/MainApp/Bundle
+/x64

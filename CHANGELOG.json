@@ -1,0 +1,80 @@
+{
+  "name": "microsoft-reactnative-sampleapps",
+  "entries": [
+    {
+      "date": "Mon, 22 Feb 2021 15:07:37 GMT",
+      "tag": "microsoft-reactnative-sampleapps_v0.0.54",
+      "version": "0.0.54",
+      "comments": {
+        "prerelease": [
+          {
+            "comment": "Bump react-native-windows to v0.64.0-preview.12",
+            "author": "igklemen@microsoft.com",
+            "commit": "90d368aca1654bd8961869678168276c566a76d5",
+            "package": "microsoft-reactnative-sampleapps"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 15 Feb 2021 15:07:11 GMT",
+      "tag": "microsoft-reactnative-sampleapps_v0.0.54",
+      "version": "0.0.54",
+      "comments": {
+        "prerelease": [
+          {
+            "comment": "Bump react-native-windows to v0.64.0-preview.11",
+            "author": "30809111+acoates-ms@users.noreply.github.com",
+            "commit": "5f5a8c4cf7a255582bb61779479affad8c652820",
+            "package": "microsoft-reactnative-sampleapps"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 08 Feb 2021 15:06:18 GMT",
+      "tag": "microsoft-reactnative-sampleapps_v0.0.54",
+      "version": "0.0.54",
+      "comments": {
+        "prerelease": [
+          {
+            "comment": "Bump react-native-windows to v0.64.0-preview.10",
+            "author": "igklemen@microsoft.com",
+            "commit": "99daf2dc77ad6c5177906171271873d979a7af3a",
+            "package": "microsoft-reactnative-sampleapps"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 01 Feb 2021 15:07:32 GMT",
+      "tag": "microsoft-reactnative-sampleapps_v0.0.54",
+      "version": "0.0.54",
+      "comments": {
+        "prerelease": [
+          {
+            "comment": "Bump react-native-windows to v0.64.0-preview.9",
+            "author": "lamdoan@microsoft.com",
+            "commit": "36839204682afed4fa3a0bd7711e4301dbfa6273",
+            "package": "microsoft-reactnative-sampleapps"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 25 Jan 2021 15:06:41 GMT",
+      "tag": "microsoft-reactnative-sampleapps_v0.0.54",
+      "version": "0.0.54",
+      "comments": {
+        "prerelease": [
+          {
+            "comment": "Bump react-native-windows to v0.64.0-preview.8",
+            "author": "asklar@microsoft.com",
+            "commit": "43a5d5d64c0de100c8274ab0e237d6359f94617b",
+            "package": "microsoft-reactnative-sampleapps"
+          }
+        ]
+      }
+    }
+  ]
+}
