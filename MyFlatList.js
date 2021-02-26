@@ -52,7 +52,7 @@ class MyFlatList extends Component {
     }
 
     componentDidMount() {
-        // init();
+        init();
         this.KeyStrokeEventSub = KeyStrokeEmitter.addListener('EmitKeystrokeEvent', getCallback('NativeModule.EmitKeystrokeEvent => '));
     }
 
